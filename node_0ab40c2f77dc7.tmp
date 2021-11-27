@@ -1,0 +1,8 @@
+var fim;
+var ini;
+fim = 5;
+step = 1;
+for(ini = 0 ; ini < fim ; ini -= step){
+    console.log(`contando ${ini}`);
+ 
+}
